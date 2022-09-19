@@ -1,16 +1,14 @@
-### Hi there 👋
+## Podcast
 
-<!--
-**fluttermiddlepodcast/fluttermiddlepodcast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [mave](https://fluttermiddlepodcast.mave.digital);
+- [YouTube](https://www.youtube.com/channel/UCO7JLX8GbkJtxhHEWslPPQQ);
+- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9jbG91ZC5tYXZlLmRpZ2l0YWwvMzk0MjM);
+- [SoundCloud](https://soundcloud.com/artem-f-676932084).
 
-Here are some ideas to get you started:
+## Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LeetCode](https://leetcode.com/fluttermiddlepodcast/).
+
+## Feedback
+
+Обратная связь: fluttermiddlepodcast@gmail.com
