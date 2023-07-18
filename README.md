@@ -13,6 +13,9 @@
 - [Overcast](https://overcast.fm/itunes1648922484)
 - [SoundStream](https://soundstream.media/playlist/flutter-middle-podcast)
 - [Podcast Addict](https://podcastaddict.com/podcast/4113709)
+- [Pocket Casts](https://pca.st/ekuwrcht)
+- [Deezer](https://deezer.com/show/1000099215)
+- [Spotify](https://open.spotify.com/show/1CrEfnUMAKnd2eFU0LmK5w)
 
 ## Code
 
