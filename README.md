@@ -1,3 +1,7 @@
+## Blog
+
+- [Flutter Developer Talks](https://fluttermiddlepodcast.github.io)
+
 ## Соц. сети
 
 - [Telegram](https://t.me/fluttermiddlepodcast)
@@ -6,9 +10,8 @@
 ## Слушать
 
 - [Apple Podcasts](https://podcasts.apple.com/by/podcast/flutter-middle-podcast/id1648922484)
+- [Telegram](https://t.me/mavestreambot/app?startapp=fluttermiddlepodcast)
 - [Yandex.Music](https://music.yandex.ru/album/23735163)
-- [SoundCloud](https://soundcloud.com/artem-f-676932084)
-- [Spotify](https://open.spotify.com/show/1CrEfnUMAKnd2eFU0LmK5w)
 
 ## Смотреть
 
