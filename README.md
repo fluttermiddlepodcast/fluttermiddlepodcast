@@ -2,7 +2,7 @@
 
 # Flutter Developer Talks
 
-*Блог и подкаст для Flutter-разработчиков.*
+*Блог и подкаст для Flutter-разработчиков*
 
 [![Telegram](https://img.shields.io/badge/Telegram-Читать-0088CC?style=for-the-badge&logo=telegram)](https://t.me/fluttermiddlepodcast)
 [![Website](https://img.shields.io/badge/Блог-Читать-blue?style=for-the-badge&logo=safari)](https://fluttermiddlepodcast.github.io/)
